@@ -1,0 +1,12 @@
+# GGAD项目依赖
+torch==1.11.0
+scipy
+numpy
+scikit-learn
+matplotlib
+pandas
+tqdm
+dgl==0.6.1
+torch-geometric==2.0.4
+jinja2
+pyparsing 
